@@ -60,7 +60,7 @@ More examples for different trigger types are located in the `examples` director
 * PubSub
 * Firebase authentication
 
-More comming soon.
+More coming soon.
 
 ## Install the deployment tool
 
